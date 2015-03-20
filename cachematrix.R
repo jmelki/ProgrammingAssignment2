@@ -3,8 +3,10 @@
 
 ## Write a short comment describing this function
 
-aaamakeCacheMatrix <- function(x = matrix()) {
+makeCacheMatrix <- function(x = matrix(a:b, i,j)) {
 
+  
+  
 }
 
 
